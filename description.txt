@@ -1,1 +1,1 @@
-Runes For Fun is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+RunesForFun is a pretty cool mod, added 3 tier life-stealing accessories and accessories that make projectiles(eg. bullets and arrows) through the wall.
